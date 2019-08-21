@@ -1,6 +1,8 @@
 # Wearables-Driven Freeform Handwriting Dataset
 The database (using PostgreSQL) is comprised of three tables and five experimental scenarios. This document will describe the dataset, database, and how to use it.
 
+You can find the dataset here: https://drive.google.com/open?id=1trBm0BcdzZvYearEVcPB-UdQ797Tf_Pb
+
 ## The Dataset
 Our dataset includes the sensor data for the following experimental scenarios (please refer to the paper for further details):
 - Baseline Experiments
